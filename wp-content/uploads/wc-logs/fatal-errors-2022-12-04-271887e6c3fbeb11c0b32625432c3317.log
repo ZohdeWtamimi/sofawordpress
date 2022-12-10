@@ -1,0 +1,2 @@
+2022-12-04T15:52:24+00:00 CRITICAL Out of memory (allocated 98566144) (tried to allocate 12288 bytes) in C:\xampp\htdocs\Furniture\wp-content\plugins\wordpress-seo\src\integrations\blocks\structured-data-blocks.php on line 258
+
